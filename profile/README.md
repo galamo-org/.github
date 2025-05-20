@@ -29,7 +29,7 @@ Thanks to these amazing users who starred Galamo early and supported the project
 | [vansh16-code](https://github.com/vansh16-code) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) | [jsdingra11](https://github.com/jsdingra11) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) |
 | [Taran677](https://github.com/Taran677) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) | [Nerdparth](https://github.com/Nerdparth) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) |
 | [Shinchan1313](https://github.com/Shinchan1313) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) | [ishan612](https://github.com/ishan612) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) |
-| [DingrastroClub](https://github.com/DingrastroClub) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) |  |  |
+| [DingrastroClub](https://github.com/DingrastroClub) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) | [reeva002](https://github.com/reeva002) | ![Galamo Early Supporter](https://img.shields.io/badge/Galamo-Early%20Supporter-purple) |
 
 
 If your name is not here and you are the one of the early supportors kindly contact: contact@galamo.org
